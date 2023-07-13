@@ -153,6 +153,24 @@
 ### Module 6: Montoring
 
 
+#Getting Started With AWS Storage
+## Overview
+* Storage options
+* Types of storage : block, file, object
+* why move storage to cloud?
+
+### Storage
+* Data is one of the most important assest for businesses and to store data, companies need storage
+* There are three types of storage: block, file, object
+* first discuss use of cloud storage?
+### Why use cloud storage?
+* Scalable
+* Cost-efficent
+* Accessible and available
+* Disaster recovery
+* Global reach
+### What are the type of storage? 
+* ![image](https://github.com/Mk-CloudLeader/aws_Meetup-2023/assets/66654978/4137214e-4f10-4d9e-8475-c3d8bd26afa1)
 
 
 
